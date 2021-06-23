@@ -1,0 +1,28 @@
+[Mon Jun 21, 2021 12:33:07,138 PM] [main           ] com.sapient.programs.CheckDbConnection List of drivers registered with DriverManager
+[Mon Jun 21, 2021 12:33:07,236 PM] [main           ] com.sapient.programs.CheckDbConnection com.mysql.cj.jdbc.Driver
+[Mon Jun 21, 2021 12:33:42,797 PM] [main           ] com.sapient.programs.CheckDbConnection List of drivers registered with DriverManager
+[Mon Jun 21, 2021 12:33:42,886 PM] [main           ] com.sapient.programs.CheckDbConnection com.mysql.cj.jdbc.Driver
+[Mon Jun 21, 2021 12:34:51,991 PM] [main           ] com.sapient.programs.CheckDbConnection List of drivers registered with DriverManager
+[Mon Jun 21, 2021 12:34:52,058 PM] [main           ] com.sapient.programs.CheckDbConnection com.mysql.cj.jdbc.Driver
+[Mon Jun 21, 2021 12:34:55,947 PM] [main           ] com.sapient.programs.CheckDbConnection conn is of type com.mysql.cj.jdbc.ConnectionImpl
+[Mon Jun 21, 2021 12:39:50,051 PM] [main           ] com.sapient.programs.CheckDbConnection List of drivers registered with DriverManager
+[Mon Jun 21, 2021 12:39:50,083 PM] [main           ] com.sapient.programs.CheckDbConnection com.mysql.cj.jdbc.Driver
+[Mon Jun 21, 2021 12:39:51,611 PM] [main           ] com.sapient.programs.CheckDbConnection conn is of type com.mysql.cj.jdbc.ConnectionImpl
+[Mon Jun 21, 2021 12:47:58,396 PM] [main           ] com.sapient.programs.CreateTable create table persons (id int primar key auto_increment, name varchar(50))
+[Mon Jun 21, 2021 12:48:42,021 PM] [main           ] com.sapient.programs.CreateTable create table persons (id int primary key auto_increment, name varchar(50))
+[Mon Jun 21, 2021 12:48:50,752 PM] [main           ] com.sapient.programs.CreateTable table persons created successfully
+[Mon Jun 21, 2021 12:56:45,647 PM] [main           ] com.sapient.programs.CreateTable create table persons (id int primary key auto_increment, name varchar(50))
+[Mon Jun 21, 2021 01:20:49,557 PM] [main           ] com.sapient.programs.CreateTable create table persons (id int primary key auto_increment, name varchar(50))
+[Mon Jun 21, 2021 01:21:06,816 PM] [main           ] com.sapient.programs.CheckDbConnection List of drivers registered with DriverManager
+[Mon Jun 21, 2021 01:21:06,911 PM] [main           ] com.sapient.programs.CheckDbConnection com.mysql.cj.jdbc.Driver
+[Mon Jun 21, 2021 01:21:08,877 PM] [main           ] com.sapient.programs.CheckDbConnection conn is of type com.mysql.cj.jdbc.ConnectionImpl
+[Mon Jun 21, 2021 02:06:50,670 PM] [main           ] com.sapient.programs.InsertPersonRecords new record for persons table inserted successfully!
+[Mon Jun 21, 2021 02:08:56,957 PM] [main           ] com.sapient.programs.InsertPersonRecords new record for persons table inserted successfully!
+[Mon Jun 21, 2021 02:09:12,199 PM] [main           ] com.sapient.programs.CheckDbConnection List of drivers registered with DriverManager
+[Mon Jun 21, 2021 02:09:12,583 PM] [main           ] com.sapient.programs.CheckDbConnection com.mysql.cj.jdbc.Driver
+[Mon Jun 21, 2021 02:10:18,557 PM] [main           ] com.sapient.programs.GetRecordsFromPersonsTable id = 1, name = Shyam
+[Mon Jun 21, 2021 02:10:18,558 PM] [main           ] com.sapient.programs.GetRecordsFromPersonsTable id = 2, name = Shyam
+[Mon Jun 21, 2021 02:11:04,315 PM] [main           ] com.sapient.programs.InsertPersonRecords new record for persons table inserted successfully!
+[Mon Jun 21, 2021 02:11:11,297 PM] [main           ] com.sapient.programs.GetRecordsFromPersonsTable id = 1, name = Shyam
+[Mon Jun 21, 2021 02:11:11,298 PM] [main           ] com.sapient.programs.GetRecordsFromPersonsTable id = 2, name = Shyam
+[Mon Jun 21, 2021 02:11:11,299 PM] [main           ] com.sapient.programs.GetRecordsFromPersonsTable id = 3, name = Jaswant
